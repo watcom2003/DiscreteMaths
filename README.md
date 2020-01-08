@@ -1,3 +1,3 @@
 # DiscreteMaths
 เอกสารสำหรับนักศึกษา
-1. (Logic Gate)[https://academo.org/demos/logic-gate-simulator/]
+1. [Logic Gate](https://academo.org/demos/logic-gate-simulator/)
