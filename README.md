@@ -6,3 +6,5 @@ Tools :
 1. [Solve Propositional Formula](http://logictools.org/)
 1. [Logic tools](https://www.wolframalpha.com/examples/mathematics/discrete-mathematics/)
 1. [Discrete Math Calculator](https://www.mathcelebrity.com/lesplan.php?key=discrete)
+1. [Java Online](https://www.tutorialspoint.com/compile_java_online.php)
+
