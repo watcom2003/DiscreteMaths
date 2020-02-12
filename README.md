@@ -1,5 +1,6 @@
 # DiscreteMaths
 เอกสารสำหรับนักศึกษา
+1. [Slides](http://fivedots.coe.psu.ac.th/Software.coe/DiscreteMaths/Slides/)
 1. [Discrete Math Calculator](https://www.mathcelebrity.com/lesplan.php?key=discrete)
 ## Chapter 1 Set
 1. [Python IDE](https://www.onlinegdb.com/online_python_compiler)
