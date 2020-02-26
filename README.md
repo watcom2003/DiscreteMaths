@@ -12,7 +12,7 @@
 1. [Java Online](https://www.jdoodle.com/online-java-compiler/)
 ## Chapter 3 Predicate Logic
 1. [Predicate logic tools](https://www.umsu.de/trees/)
-1. [Check married]( )
+1. [Check married](file/married.js)
 ## Chapter 4 Proofs
 
 ## Chapter 5 Relations
