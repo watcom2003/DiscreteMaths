@@ -1,9 +1,9 @@
 function married(x , y) {
-        var family = "[ {'husband':'jack','wife':'jill'}, {'husband':'homer','wife':'marge'},{'husband':'bill','wife':'ben'} ]"
+        var family = [ {"husband":"jack","wife":"jill"}, {"husband":"homer","wife":"marge"},{"husband":"bill","wife":"ben"} ]
         var marry = false;
-        var fam = JSON.parse(family)
-        for (i=0; i< 3; i++) {
-              if ((x==fam[i].husband) && (y==fam[i].wife)) { marry = true}
+       
+        for (i=0; i< family.length-1; i++) {
+              if ((x==family[i].husband) && (y==family[i].wife)) { marry = true}
         }
         return(marry)
 }
