@@ -14,8 +14,18 @@
 1. [Predicate logic tools](https://www.umsu.de/trees/)
 1. [Check married](file/married.js)
 ## Chapter 4 Proofs
-
+### Rules of Inference
+1. Modus Ponens
+1. Modus Tollens
+1. Transitivity
+1. Disjunctive Syllogism
+1. Addition
+1. Simplification
+1. Conjunction
+1. Resolution
 ## Chapter 5 Relations
+1. [Python Interpreter](https://www.programiz.com/python-programming/online-compiler/)
+1. [Relations example in python](https://w3.cs.jmu.edu/mayfiecs/cs228/python/relations.py)
 
 ## Chapter 6 Functions
 
