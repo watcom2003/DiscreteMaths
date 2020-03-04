@@ -26,6 +26,7 @@
 ## Chapter 5 Relations
 1. [Python Interpreter](https://www.programiz.com/python-programming/online-compiler/)
 1. [Relations example in python](https://w3.cs.jmu.edu/mayfiecs/cs228/python/relations.py)
+    1. [Solution: Setup relation to True](file/Relation.py)
 
 ## Chapter 6 Functions
 
