@@ -29,7 +29,11 @@
     1. [Solution: Setup relation to True](file/Relation.py)
 
 ## Chapter 6 Functions
-
+1. Injective / Surjective / Bijective
+1. Identity Function / Inverse Function
+1. Composition of Functions
+1. Composition and Inverse
+1. [Function Calculator](https://www.symbolab.com/solver)
 ## Chapter 7 Counting
 
 ## Chapter 8 Induction
