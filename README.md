@@ -32,6 +32,7 @@
 1. Databases and Relations
 1. Primary Key
 1. [Relational Database Definitions](http://sot.swu.ac.th/portals/156/sot/cp342/lesson01/cs4t3.htm)
+1. [Database Design Tool](https://www.quickdatabasediagrams.com/)
 ## Chapter 6 Functions
 1. Injective / Surjective / Bijective
 1. Identity Function / Inverse Function
