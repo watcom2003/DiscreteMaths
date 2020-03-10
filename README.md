@@ -27,7 +27,11 @@
 1. [Python Interpreter](https://www.programiz.com/python-programming/online-compiler/)
 1. [Relations example in python](https://w3.cs.jmu.edu/mayfiecs/cs228/python/relations.py)
     1. [Solution: Setup relation to True](file/Relation.py)
-
+1. Composition of Relations
+1. N-ary Relations
+1. Databases and Relations
+1. Primary Key
+1. [Relational Database Definitions](http://sot.swu.ac.th/portals/156/sot/cp342/lesson01/cs4t3.htm)
 ## Chapter 6 Functions
 1. Injective / Surjective / Bijective
 1. Identity Function / Inverse Function
