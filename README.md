@@ -46,7 +46,7 @@
 1. The Subtraction Rule - กฏการลบ
 1. Tree Diagrams - ผังต้นไม้
 1. The Pigeonhole Principle - หลักการรังนกพิราบ
-    [อธิบายหลักการรังนกพิราบ](https://www.youtube.com/watch?v=4Dz4vNUxnZM)
+    * [อธิบายหลักการรังนกพิราบ](https://www.youtube.com/watch?v=4Dz4vNUxnZM)
 
 ## Chapter 8 Induction
 
