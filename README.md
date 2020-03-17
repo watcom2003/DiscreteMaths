@@ -40,6 +40,12 @@
 1. Composition and Inverse
 1. [Function Calculator](https://www.symbolab.com/solver)
 ## Chapter 7 Counting
+1. The Product Rule - กฏการคูณ 
+1. The Sum Rule - กฏการบวก
+1. Combining the Sum and Product Rules - การร่วมกันของทั้งสองกฏ
+1. The Subtraction Rule - กฏการลบ
+1. Tree Diagrams - ผังต้นไม้
+1. The Pigeonhole Principle - หลักการรังนกพิราบ
 
 ## Chapter 8 Induction
 
