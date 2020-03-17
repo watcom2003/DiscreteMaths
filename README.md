@@ -47,6 +47,7 @@
 1. Tree Diagrams - ผังต้นไม้
 1. The Pigeonhole Principle - หลักการรังนกพิราบ
     * [อธิบายหลักการรังนกพิราบ](https://www.youtube.com/watch?v=4Dz4vNUxnZM)
+1. [วีดีโอสอนบทที่ 7](https://www.youtube.com/)
 
 ## Chapter 8 Induction
 
