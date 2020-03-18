@@ -48,7 +48,7 @@
 1. The Pigeonhole Principle - หลักการรังนกพิราบ
     * [อธิบายหลักการรังนกพิราบ](https://www.youtube.com/watch?v=4Dz4vNUxnZM)
 1. [วีดีโอสอนบทที่ 7 ตอนที่ ](https://youtu.be/Dxnw7RHaioY)
-1. [วีดีโอสอนบทที่ 7 ตอนที่ 2(https://youtu.be/duKaNDDKNrQ)
+1. [วีดีโอสอนบทที่ 7 ตอนที่ 2](https://youtu.be/duKaNDDKNrQ)
 ## Chapter 8 Induction
 
 ## Chapter 9 Graphs
