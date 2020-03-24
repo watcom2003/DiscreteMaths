@@ -57,8 +57,8 @@
 
 ## Chapter 11 Recursion
 1. Programming
-    *[StdLib](https://introcs.cs.princeton.edu/java/stdlib/)
-    *[StdDraw.java](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html)
+    * [StdLib](https://introcs.cs.princeton.edu/java/stdlib/)
+    * [StdDraw.java](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html)
 
 ## Chapter 12 Automata
 
