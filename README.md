@@ -50,6 +50,13 @@
 1. [วีดีโอสอนบทที่ 7 ตอนที่ 1](https://youtu.be/Dxnw7RHaioY)
 1. [วีดีโอสอนบทที่ 7 ตอนที่ 2](https://youtu.be/duKaNDDKNrQ)
 ## Chapter 8 Induction
+อุปนัยทางคณิตศาสตร์
+ขั้นตอนในการอุปนัยทางคณิตศาสตร์
+1. ทดสอบ basic / Base Case
+    * S(n) เป็นจริง 
+1. ทดสอบ Implication Case 
+    * S(n) -> S(n+1) เป็นจริง
+
 
 ## Chapter 9 Graphs
 
