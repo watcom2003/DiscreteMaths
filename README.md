@@ -57,7 +57,8 @@
 1. ทดสอบ Implication Case เพื่อยืนยันว่ากรณีแรกเป็นจริงแล้ว กรณีต่อมาก็เป็นจริงด้วย
     * S(n) -> S(n+1) เป็นจริง
 * สัญลักษณ์ทางคณิตศาสตร์
-![](file/sum&production%20Pic.png)
+
+    * ![](file/sum&production%20Pic.png)
 
 
 ## Chapter 9 Graphs
