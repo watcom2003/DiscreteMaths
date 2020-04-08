@@ -62,6 +62,7 @@
 
 
 ## Chapter 9 Graphs
+1. [Simulation of Saleman Travelling](https://www.youtube.com/watch?v=SC5CX8drAtU)
 
 ## Chapter 10 Trees
 
