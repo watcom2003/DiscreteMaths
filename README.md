@@ -62,6 +62,10 @@
 
 
 ## Chapter 9 Graphs
+1. Graph
+    * [Graph Introduction](https://www.youtube.com/watch?v=82zlRaRUsaY&t=60s)
+    * [Graph Lectures](https://www.youtube.com/watch?v=S1Zwhz-MhCs&list=RDCMUCV8tyRakGZuXUwD-wYH1yGg&index=5)
+    * [Free Graph Theory Course](https://www.tutorialspoint.com/graph_theory_algorithms/index.asp)
 1. Euler cycles
     * [Euler Path](https://www.youtube.com/watch?v=ycRuO-u6rt8&list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU&index=4)
     * [Euler Path examples](https://www.youtube.com/watch?v=Dx1lpbpSHwI&list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU&index=5)
