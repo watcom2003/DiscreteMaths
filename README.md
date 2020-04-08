@@ -62,7 +62,17 @@
 
 
 ## Chapter 9 Graphs
-1. [Simulation of Saleman Travelling](https://www.youtube.com/watch?v=SC5CX8drAtU)
+1. Euler cycles
+    * [Euler Path](https://www.youtube.com/watch?v=ycRuO-u6rt8&list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU&index=4)
+    * [Euler Path examples](https://www.youtube.com/watch?v=Dx1lpbpSHwI&list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU&index=5)
+    * [Konigsberg Bridge -- โคนิกเบิค](https://www.youtube.com/watch?v=nZwSo4vfw6c)
+1. Hamilton cycles
+    * [Hamilton Path](https://www.youtube.com/watch?v=6QFSkhcHLiA)
+    * [Hamilton circuit](https://www.youtube.com/watch?v=IADKmt_fXbM)
+
+1. Traveling Salesman Problem Simulation
+    * [Example 1](https://www.youtube.com/watch?v=SC5CX8drAtU)
+    * [Example 2](https://www.youtube.com/watch?v=W-aAjd8_bUc)
 
 ## Chapter 10 Trees
 
