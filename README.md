@@ -79,6 +79,29 @@
     * [Example 2](https://www.youtube.com/watch?v=W-aAjd8_bUc)
 
 ## Chapter 10 Trees
+1. Tree Terminology
+    * Root
+    * Simple Path
+    * Parent
+    * ancestors
+    * child
+    * Descendant
+    * Siblings
+    * Leaf
+    * Branch
+    * Subtree
+    * Length
+    * Level
+    * Height of a tree
+    * m-ary tree
+1. Spanning Trees
+    * Breadth-first search 
+    * Depth-first search
+    * [Breath and Depth first search](https://www.youtube.com/watch?v=bIA8HEEUxZI)
+1. Minimal Spanning Tree
+    * [Dijkstra's Algorithm: Shortest Path](https://www.youtube.com/watch?v=9_3VpzOqoGQ)
+    * [Prim's Algorithm](https://www.youtube.com/watch?v=Uj47dxYPow8)
+    * [Kruskal's Minimum Spanning Tree Algorithm](https://www.youtube.com/watch?v=Yo7sddEVONg)
 
 ## Chapter 11 Recursion
 1. Programming in JAVA
