@@ -101,7 +101,7 @@
 1. Minimal Spanning Tree
     * [Dijkstra's Algorithm: Shortest Path](https://www.youtube.com/watch?time_continue=7&v=gdmfOwyQlcI&feature=emb_logo) [VDO Thai](https://www.youtube.com/watch?v=bBkrRrrSX2M)
     * [Prim's Algorithm](https://www.youtube.com/watch?v=cplfcGZmX7I) [VDO Thai](https://www.youtube.com/watch?v=QTqs56rXg9U)
-    * [Kruskal's Minimum Spanning Tree Algorithm](https://www.youtube.com/watch?v=Yo7sddEVONg) [VDO Thai](https://www.youtube.com/watch?v=6TkX_sFOq5E)
+    * [Kruskal's Minimum Spanning Tree Algorithm](https://www.youtube.com/watch?v=71UQH7Pr9kU) [VDO Thai](https://www.youtube.com/watch?v=6TkX_sFOq5E)
 
 ## Chapter 11 Recursion
 1. Programming in JAVA
