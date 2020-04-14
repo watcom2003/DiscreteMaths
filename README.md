@@ -99,7 +99,7 @@
     * Depth-first search
     * [Breath and Depth first search](https://www.youtube.com/watch?v=bIA8HEEUxZI)
 1. Minimal Spanning Tree
-    * [Dijkstra's Algorithm: Shortest Path](https://www.youtube.com/watch?v=9_3VpzOqoGQ)
+    * [Dijkstra's Algorithm: Shortest Path](https://www.youtube.com/watch?v=8Ls1RqHCOPw)
     * [Prim's Algorithm](https://www.youtube.com/watch?v=Uj47dxYPow8)
     * [Kruskal's Minimum Spanning Tree Algorithm](https://www.youtube.com/watch?v=Yo7sddEVONg)
 
