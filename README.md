@@ -112,7 +112,9 @@
 1. วัตถุประสงค์การใช้งาน การเวียนเกิด เพื่อแก้ปัญหาบางอย่างที่มีรูปแบบทำซ้ำแบบมีเงื่อนไข แล้วทำไมไม่ใช้วนลูป หรือวนรอบแทน????!!!!! คำตอบคือ เราไม่ต้องจัดการ Stack ที่ใช้ในการเก็บสถานะตัวแปรในแต่ละรอบเอง การเวียนเกิดจะเก็บข้อมูลตัวแปรในแต่ละรอบเองโดยตัวแปลภาษาโปรแกรม (C++ , Python , ... ) แต่ในการทำงานจำนวนรอบมาก ๆ ก็อาจจะต้องใช้การวนรอบแทนการเวียนเกิดเพื่อหลีกเลี่ยงที่จัดเก็บข้อมูลล้น (Stack Overflow) จึงไม่มีคำตอบที่ชัดเจนว่าการเขียนโปรแกรมแบบไหนดีกว่ากัน ขึ้นอยู่กับการใช้งานแบบใดมากกว่า
 1. Factorial !
     1. n! = 1 * 2 * 3 * ... * n หรือ n! = n * ... * 3 * 2 * 1 โดย กรณีพื้นฐาน (basis case) 1! = 1 ; กรณีเวียนเกิด (recursive case) n! = n * (n-1) * ... * 3 * 2 * 1
-
+    1. [เขียน Java Online](https://www.tutorialspoint.com/compile_java_online.php)
+    1. [Source Code Factorial](file/FactorialExample.java)
+    1. [
 1. Programming in JAVA
     * [StdLib](https://introcs.cs.princeton.edu/java/stdlib/)
     * [StdDraw.java](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html)
