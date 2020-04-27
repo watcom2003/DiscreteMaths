@@ -11,7 +11,7 @@ public class FactorialExample{
  }
     
  public static void main(String args[]){  
-  int number = 500000;
+  int number = 5;
   System.out.println("Factorial of "+number+" is: "+factorialLoop(number));    
   try {
     System.out.println("Factorial of "+factorialRecursive(number));
