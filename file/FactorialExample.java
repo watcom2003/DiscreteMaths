@@ -6,8 +6,8 @@ public class FactorialExample{
     return res;
  }    
  public static long factorialRecursive(int n) {
-     if (n==1) return 1; else
-        return n * factorialRecursive(n-1);
+     if (n==1) return 1; /*basis case*/
+     else return n * factorialRecursive(n-1); /*recursive case*/
  }
     
  public static void main(String args[]){  
