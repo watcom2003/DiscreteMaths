@@ -114,6 +114,7 @@
     1. n! = 1 * 2 * 3 * ... * n หรือ n! = n * ... * 3 * 2 * 1 โดย กรณีพื้นฐาน (basis case) 1! = 1 ; กรณีเวียนเกิด (recursive case) n! = n * (n-1) * ... * 3 * 2 * 1
     1. [เขียน Java Online](https://www.tutorialspoint.com/compile_java_online.php)
     1. [Source Code Factorial](file/FactorialExample.java)
+1. Data Structure: List
     1. [เขียน C++ Online](https://www.onlinegdb.com/online_c++_compiler)
     1. [List in C++]( )
 1. Programming in JAVA
